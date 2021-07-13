@@ -1,0 +1,12 @@
+#start
+/node_modules
+
+#backend
+/backend/node_modules
+/backend/.cache
+/backend/.tmp
+/backend/.env
+
+#frontend
+/frontend/.next
+/frontend/node_modules
